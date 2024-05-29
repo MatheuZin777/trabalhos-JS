@@ -1,0 +1,35 @@
+button{
+    appearance: auto;
+    font-style:italic ;
+    font-variant-ligatures: common-ligatures;
+    font-variant-caps: normal;
+    font-variant-numeric: oldstyle-nums;
+    font-variant-east-asian:ruby ;
+    font-variant-alternates:normal ;
+    font-variant-position:normal ;
+    font-weight: 300;
+    font-stretch: expanded;
+    font-size:medium ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-optical-sizing: none;
+    font-kerning: normal;
+    font-feature-settings: "abvs";
+    font-variation-settings:initial ;
+    text-rendering: auto;
+    color: black;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform:12px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: darkcyan;
+    margin: 50vh;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+}
